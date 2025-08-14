@@ -8,3 +8,4 @@ This is a new entry for feature-branch.
 This is a new-feature branch Update.
 
 This is a change only in new-feature branch.
+Master change
